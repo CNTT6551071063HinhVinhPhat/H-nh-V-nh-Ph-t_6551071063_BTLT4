@@ -1,0 +1,16 @@
+C:\Users\V.Phat\Documents\Code\Web\cau15\cau15\bin\Debug\net10.0-windows\cau15.exe
+C:\Users\V.Phat\Documents\Code\Web\cau15\cau15\bin\Debug\net10.0-windows\cau15.deps.json
+C:\Users\V.Phat\Documents\Code\Web\cau15\cau15\bin\Debug\net10.0-windows\cau15.runtimeconfig.json
+C:\Users\V.Phat\Documents\Code\Web\cau15\cau15\bin\Debug\net10.0-windows\cau15.dll
+C:\Users\V.Phat\Documents\Code\Web\cau15\cau15\bin\Debug\net10.0-windows\cau15.pdb
+C:\Users\V.Phat\Documents\Code\Web\cau15\cau15\obj\Debug\net10.0-windows\cau15.Form1.resources
+C:\Users\V.Phat\Documents\Code\Web\cau15\cau15\obj\Debug\net10.0-windows\cau15.csproj.GenerateResource.cache
+C:\Users\V.Phat\Documents\Code\Web\cau15\cau15\obj\Debug\net10.0-windows\cau15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V.Phat\Documents\Code\Web\cau15\cau15\obj\Debug\net10.0-windows\cau15.AssemblyInfoInputs.cache
+C:\Users\V.Phat\Documents\Code\Web\cau15\cau15\obj\Debug\net10.0-windows\cau15.AssemblyInfo.cs
+C:\Users\V.Phat\Documents\Code\Web\cau15\cau15\obj\Debug\net10.0-windows\cau15.csproj.CoreCompileInputs.cache
+C:\Users\V.Phat\Documents\Code\Web\cau15\cau15\obj\Debug\net10.0-windows\cau15.dll
+C:\Users\V.Phat\Documents\Code\Web\cau15\cau15\obj\Debug\net10.0-windows\refint\cau15.dll
+C:\Users\V.Phat\Documents\Code\Web\cau15\cau15\obj\Debug\net10.0-windows\cau15.pdb
+C:\Users\V.Phat\Documents\Code\Web\cau15\cau15\obj\Debug\net10.0-windows\cau15.genruntimeconfig.cache
+C:\Users\V.Phat\Documents\Code\Web\cau15\cau15\obj\Debug\net10.0-windows\ref\cau15.dll
